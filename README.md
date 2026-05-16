@@ -25,25 +25,19 @@ Actualmente trabajo en el desarrollo de:
 - Dashboards administrativos
 - Software de gestión empresarial
 
-Me encuentro en constante aprendizaje de nuevas tecnologías y mejores prácticas de desarrollo para seguir creciendo profesionalmente como desarrollador Full Stack y Mobile Developer.
-
 ---
 
 # 💻 Tecnologías y Herramientas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,react,laravel,php,js,nodejs,mysql,firebase,html,css,git,github,vscode,postman&theme=dark" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react,flutter,nodejs,mysql,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,react,laravel,php,js,nodejs,mysql,sqlite,firebase,html,css,git,github,vscode,postman&theme=dark" />
 
 </div>
 
 ---
 
-# 🛠️ Especialidades
+# 🛠️ Áreas de Especialización
 
 <div align="center">
 
