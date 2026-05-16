@@ -82,7 +82,7 @@ Actualmente trabajo en el desarrollo de:
 
 📍 Cochabamba, Bolivia  
 💼 Abierto a colaboraciones y proyectos  
-📧 tucorreo@example.com  
+📧 diego.zurita2406@gmail.com
 
 </div>
 
